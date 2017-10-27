@@ -1,6 +1,8 @@
 ZeroTier One
 ======
 
+(My local copy)
+
 ZeroTier is a software defined networking layer for Earth.
 
 It can be used for on-premise network virtualization, as a peer to peer VPN for mobile teams, for hybrid or multi-data-center cloud deployments, or just about anywhere else secure software defined virtual networking is useful.
