@@ -1,7 +1,7 @@
 ZeroTier One
 ======
 
-(My local copy)
+My local copy from [here](https://notabug.org/bignose/zerotier-one.git).
 
 ZeroTier is a software defined networking layer for Earth.
 
